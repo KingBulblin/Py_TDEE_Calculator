@@ -1,0 +1,1 @@
+This is my calculator that uses the revised Harris-Benedict equation to output the number of calories needed to maintain your current weight based on sex, height, weight, age, and activity levels. This calculator was created in python and can can be ran from the command line.
